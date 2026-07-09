@@ -5,6 +5,12 @@
       "url": "/paradise.html",
       "desc": "Literally nonsense. Please note that this thing will stress your hardware,",
       "license": "MIT"
+    },
+    {
+      "name": "UNParadise",
+      "url": "/unparadise.html",
+      "desc": "Literally nonsense. Please note that this thing will calm your hardware,",
+      "license": "MIT"
     }
   ]
 }
